@@ -1,17 +1,17 @@
-properties([
-    parameters([
-        string(name: 'USERNAME'
-            ,defaultValue: 'jcat'
-            ,description: 'Username', 
-        )
-        ,string(name: 'PASSWORD'
-            ,defaultValue: 'jcat'
-            ,description: 'Password', 
-        )
-    ])
-])pipeline {
+pipeline {
     agent any
-
+    properties([
+        parameters([
+            string(name: 'USERNAME'
+                ,defaultValue: 'jcat'
+                ,description: 'Username', 
+            )
+            ,string(name: 'PASSWORD'
+                ,defaultValue: 'jcat'
+                ,description: 'Password', 
+            )
+        ])
+    ])
     stages {
         stage('Build') {
             steps {
