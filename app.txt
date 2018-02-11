@@ -6,6 +6,6 @@ text: hello
 
 
 component2
-devloper: alice
-time: 2
-text: world
+devloper: charlie
+time: 22
+text: earth
