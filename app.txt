@@ -7,5 +7,5 @@ text: bye
 
 component2
 devloper: alice
-time: 2
+time: 11
 text: world
