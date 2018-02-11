@@ -1,11 +1,11 @@
 this is an app
 component1
-devloper: alice
-time: 1
-text: hello
+devloper: bert
+time: 11
+text: bye
 
 
 component2
 devloper: alice
-time: 2
+time: 11
 text: world
