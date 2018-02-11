@@ -1,0 +1,11 @@
+this is an app
+component1
+devloper: alice
+time: 1
+text: hello
+
+
+component2
+devloper: alice
+time: 2
+text: world
