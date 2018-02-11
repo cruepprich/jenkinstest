@@ -1,7 +1,7 @@
 this is an app
 component1
 devloper: alice
-time: 1
+time: 22
 text: hello
 
 
